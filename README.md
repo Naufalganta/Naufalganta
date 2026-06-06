@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Naufal Ganta 👋
 
-<!--
-**Naufalganta/Naufalganta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer | Web Developer | Cyber Security Enthusiast
 
-Here are some ideas to get you started:
+Building web applications and security-focused solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🛡️ Website Security Checker
+Passive website security checker built with Python and Streamlit to analyze HTTPS, SSL certificates, and security headers.
+
+### 📰 Deteksi Berita Hoaks Lokal
+Machine Learning project for local fake news classification using TF-IDF and Extra Trees Classifier.
+
+### 🏔️ Rinjani Booking
+Web-based booking platform for trekking and tourism services.
+
+### 🥾 Rinjani Trekker
+Website project focused on trekking information and user experience.
+
+## 🛠 Tech Stack
+
+- Python
+- JavaScript
+- PHP
+- HTML
+- CSS
+- MySQL
+- Linux
+- Git & GitHub
+
+## 📫 Contact
+
+GitHub: https://github.com/Naufalganta
